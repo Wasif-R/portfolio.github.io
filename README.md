@@ -1,2 +1,2 @@
 #portfolio #Deployment #Simple
-live on link :  https://wasif-bot.github.io/portfolio.github.io/
+live on link :  https://wasif-r.github.io/portfolio.github.io/
